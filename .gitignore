@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+slprj/
+octave-workspace
+
+# pipeline outputs
+*.mat
+*.eps
+HFOeps.zip
+
+# OS
+.DS_Store
+Thumbs.db
